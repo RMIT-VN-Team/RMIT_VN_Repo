@@ -1,0 +1,7 @@
+H		PAYROLL		VNPPY2BUSD	3101788	23052019	1.90522E+11																																																																					
+																																																																												
+D		v12345			NAME OF ACCOUNT HOLDER			79617001	NH TNHH MOT THANH VIEN HSBC VN (HSBC)	HSBC - PGD Phu My Hung				1.03081E+11			VN																																						3101788	USD			P	390656				O												Salary Payment May 2019
+D		v23456			NAME OF ACCOUNT HOLDER			79617001	NH TNHH MOT THANH VIEN HSBC VN (HSBC)	HSBC - HCM				13268073141			VN																																						3101788	USD			P	281895				O												Salary Payment May 2019
+D		v34567			NAME OF ACCOUNT HOLDER			79604001	NH TNHH STANDARD CHARTERED VN	STANDARD CHARTERED BANK - HCM				99285732488			VN																																						3101788	USD			P	711193				O												Salary Payment May 2019
+																																																																												
+T	3	71265285																																																																										

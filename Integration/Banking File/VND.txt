@@ -1,0 +1,6 @@
+H||PAYROLL||VNPPY2LVND|3101799|24052019|190522172825
+D||v10622|||Account holder A|||79310001|NHTMCP KY THUONG VN (TECHCOMBANK)|TECHCOMBANK - Ho Chi Minh||||19033628464010|||VN||||||||||||||||||||||||||||||||||||||3101799|VND|||P|55575849||||O||||||||||||Salary Payment May 2019|||||||||||||||||||
+D||v10914|||Account holder B|||79314001|NHTMCP QUOC TE (VIB)|VIB - Ho Chi Minh||||661704060016352|||VN||||||||||||||||||||||||||||||||||||||3101799|VND|||P|31339078||||O||||||||||||Salary Payment May 2019|||||||||||||||||||
+D||v11840|||Account holder C|||79617001|NH TNHH MOT THANH VIEN HSBC VN (HSBC)|HSBC - PGD Phu My Hung||||103081246041|||VN||||||||||||||||||||||||||||||||||||||3101799|VND|||P|22921741||||O||||||||||||Salary Payment May 2019|||||||||||||||||||
+D||v11874|||Account holder D|||79310001|NHTMCP KY THUONG VN (TECHCOMBANK)|Techcombank - Toa nha Lim Tower||||19030877385016|||VN||||||||||||||||||||||||||||||||||||||3101799|VND|||P|20055338||||O||||||||||||Salary Payment May 2019|||||||||||||||||||
+T|626|17317289113
